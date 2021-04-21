@@ -9,9 +9,20 @@
 
 ### Last time, when you were playing [Over The Wire](https://overthewire.org/)'s [Bandit Wargame](https://overthewire.org/wargames/bandit/) , for some reason you have to leave in the middle of the game at a specific level. When , next time you try to continue you need the last level's password , which you were in !! So we have to do a google search everytime OR have to save the previous pass.
 
-### To simplify this task here is the CLI based program : *Bandit Ultimate*
+### To simplify this task here is the CLI based program : [*Bandit Ultimate*](https://github.com/s41r4j/BanditUltimate)
 
-Bandit Ultimate is a tool made in python that allows you to login into any level (For the sake of fair play , the level you were in last time)
+#### > Bandit Ultimate is a tool made in [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) that allows you to login into any level of [Bandit](https://overthewire.org/wargames/bandit/) with the help of this tool .
+
+<details>
+<summary> > Fair Play </summary>
+<br>
+Note : `Bandit Ultimate` is made with intention to login in the bandit level you left , to make the login process easy , saving time and invest that time in learning and solving the bandit levels - increasing your skills
+</details>
+
+---
+## Installation 
+
+
 
 ---
 
