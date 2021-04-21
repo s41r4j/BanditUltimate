@@ -1,7 +1,15 @@
 # Bandit Ultimate
 
+<br>
+
 ![Bandit Ultimate : logo]()
+
+<br>
+
 ---
+
+<br>
+
 ## Hello_User!
 
 <br>
@@ -13,6 +21,8 @@
 ### To simplify this task here is the CLI based program : [*Bandit Ultimate*](https://github.com/s41r4j/BanditUltimate)
 
 #### > Bandit Ultimate is a tool made in [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) that allows you to login into any level of [Bandit](https://overthewire.org/wargames/bandit/) with the help of this tool .
+
+<br>
 
 <details>
 <summary>Do Fair Play Buddy , Dont Cheat !! </summary>
@@ -44,6 +54,9 @@ Python 3 : [Release Docs](https://www.python.org/download/releases/3.0/) , [Oper
 <br>
 
 ---
+
+<br>
+
 ## Requirements
 
 __> Install the following packages :__
