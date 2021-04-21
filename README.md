@@ -2,8 +2,9 @@
 
 ![Bandit Ultimate : logo]()
 ---
-<br>
 ## Hello_User!
+
+<br>
 
 > *The project  **' Bandit Ultimate '**  is made with a understandable intention , which probably everyone faces while playing this wargame !!*
 
@@ -21,7 +22,9 @@ This makes the login process easy , saving time . Now invest this time in learni
 </details>
 
 <br>
+
 ---
+
 <br>
 
 ## System Requirements
@@ -30,6 +33,7 @@ This makes the login process easy , saving time . Now invest this time in learni
 
 Python 3 : [Release Docs](https://www.python.org/download/releases/3.0/) , [Operating System supported list](https://www.python.org/downloads/operating-systems/) ;
 
+<br>
 
 **Python 3+ supports **
 
@@ -37,7 +41,7 @@ Python 3 : [Release Docs](https://www.python.org/download/releases/3.0/) , [Oper
 - [x] *Windows*
 - [x] *Mac*
 
-
+<br>
 
 ---
 ## Requirements
@@ -52,10 +56,10 @@ __> Install the following packages :__
 <details>
 <summary>Linux Commands to install above noted packages ! </summary>
 <br>
- > Debian / Ubuntu 
+ Debian / Ubuntu 
 
  ```
-sudo apt-get update
+sudo apt-get install git
 sudo apt-get install python3
 sudo apt-get install pip
 sudo apt-get install dropbear
@@ -64,16 +68,21 @@ sudo pip install pyperclip
  ```
 </details>
 
+<br>
 
 ---
+
+<br>
+
 ## Installation 
 
 > Follow the instructions for setting up the tool !!
 > Install the **Requirements** , before following this. 
 
-**[1] - Cloning** 
+
 ```
-git
+git clone https://github.com/s41r4j/BanditUltimate
+cd BanditUltimate
 ```
 
 
