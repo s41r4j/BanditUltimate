@@ -14,10 +14,28 @@
 #### > Bandit Ultimate is a tool made in [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) that allows you to login into any level of [Bandit](https://overthewire.org/wargames/bandit/) with the help of this tool .
 
 <details>
-<summary>### Do Fair Play Buddy , Dont Cheat !! </summary>
+<summary>Do Fair Play Buddy , Dont Cheat !! </summary>
 <br>
-Note : Bandit Ultimate is made with intention to login in the bandit level you left , to make the login process easy , saving time and invest that time in learning and solving the bandit levels - increasing your skills
+Note : Bandit Ultimate is made with intention to login in the bandit level you left .
+This makes the login process easy , saving time . Now invest this time in learning and solving the bandit levels - increasing your skills !!
 </details>
+
+---
+## System Requirements
+ 
+> This Program is initially made for *Linux* operating systems !
+
+**Python 3+ supports **
+[x] *Linux*
+[x] *Windows*
+[x] *Mac*
+
+
+
+---
+## Requirements
+
+> T
 
 ---
 ## Installation 
