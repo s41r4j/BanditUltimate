@@ -3,8 +3,7 @@
 --
 
 ![Bandit Ultimate - logo]()
-
---
+**
 
 ## Hello_User!
 
