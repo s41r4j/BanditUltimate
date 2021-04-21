@@ -2,7 +2,7 @@
 
 ![Bandit Ultimate : logo]()
 ---
-
+<br>
 ## Hello_User!
 
 > *The project  **' Bandit Ultimate '**  is made with a understandable intention , which probably everyone faces while playing this wargame !!*
@@ -20,12 +20,16 @@ Note : Bandit Ultimate is made with intention to login in the bandit level you l
 This makes the login process easy , saving time . Now invest this time in learning and solving the bandit levels - increasing your skills !!
 </details>
 
+<br>
 ---
+<br>
+
 ## System Requirements
  
-> This Program is initially made for *Linux* operating systems !
+> This Program is initially made for __*Linux*__ operating systems !
 
-Python 3 : [Release Docs](https://www.python.org/download/releases/3.0/) , [Operating System supported list](https://www.python.org/downloads/operating-systems/)
+Python 3 : [Release Docs](https://www.python.org/download/releases/3.0/) , [Operating System supported list](https://www.python.org/downloads/operating-systems/) ;
+
 
 **Python 3+ supports **
 
@@ -38,14 +42,39 @@ Python 3 : [Release Docs](https://www.python.org/download/releases/3.0/) , [Oper
 ---
 ## Requirements
 
-> T
+__> Install the following packages :__
+
+* python3
+* pip 
+* pyperclip
+* ssh / dropbear
+
+<details>
+<summary>Linux Commands to install above noted packages ! </summary>
+<br>
+ > Debian / Ubuntu 
+
+ ```
+sudo apt-get update
+sudo apt-get install python3
+sudo apt-get install pip
+sudo apt-get install dropbear
+sudo apt-get install ssh
+sudo pip install pyperclip
+ ```
+</details>
+
 
 ---
 ## Installation 
 
 > Follow the instructions for setting up the tool !!
+> Install the **Requirements** , before following this. 
 
-** > Cloning  ** 
+**[1] - Cloning** 
+```
+git
+```
 
 
 ---
