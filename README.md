@@ -53,6 +53,11 @@ Python 3 : [Release Docs](https://www.python.org/download/releases/3.0/) , [Oper
 
 <br>
 
+### Thus , this program supports all operating systems .
+### Note : Your system should satisfy the below mentioned **Requirements** .
+
+<br>
+
 ---
 
 <br>
@@ -65,6 +70,8 @@ __> Install the following packages :__
 * pip 
 * pyperclip
 * ssh / dropbear
+
+<br>
 
 <details>
 <summary>Linux Commands to install above noted packages ! </summary>
@@ -96,6 +103,7 @@ sudo pip install pyperclip
 ```
 git clone https://github.com/s41r4j/BanditUltimate
 cd BanditUltimate
+python3 BanditUltimate.py
 ```
 
 
