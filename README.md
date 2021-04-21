@@ -25,10 +25,13 @@ This makes the login process easy , saving time . Now invest this time in learni
  
 > This Program is initially made for *Linux* operating systems !
 
+Python 3 : [Release Docs](https://www.python.org/download/releases/3.0/) , [Operating System supported list](https://www.python.org/downloads/operating-systems/)
+
 **Python 3+ supports **
-[x] *Linux*
-[x] *Windows*
-[x] *Mac*
+
+- [x] *Linux*
+- [x] *Windows*
+- [x] *Mac*
 
 
 
