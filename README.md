@@ -5,7 +5,7 @@
 
 ## Hello_User!
 
-> *The project **' Bandit Ultimate '** is made with a understandable intention , which most or probably everyone faces while playing this wargame !!*
+> *The project  **' Bandit Ultimate '**  is made with a understandable intention , which probably everyone faces while playing this wargame !!*
 
 ### Last time, when you were playing [Over The Wire](https://overthewire.org/)'s [Bandit Wargame](https://overthewire.org/wargames/bandit/) , for some reason you have to leave in the middle of the game at a specific level. When , next time you try to continue you need the last level's password , which you were in !! So we have to do a google search everytime OR have to save the previous pass.
 
