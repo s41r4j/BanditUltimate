@@ -51,9 +51,13 @@ Python 3 : [Release Docs](https://www.python.org/download/releases/3.0/) , [Oper
 - [x] *Windows*
 - [x] *Mac*
 
+- [x] *Android*
+> You need to download [Termux](https://play.google.com/store/apps/details?id=com.termux&hl=en_IN&gl=US) or similar app , install **requirements** and run the python script !!
+
+
 <br>
 
-### Thus , this program supports all operating systems .
+### Thus , this program supports all operating systems . 
 ### Note : Your system should satisfy the below mentioned **Requirements** .
 
 <br>
