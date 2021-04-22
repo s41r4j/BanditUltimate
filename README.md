@@ -115,6 +115,8 @@ cd BanditUltimate
 ```
 python3 BanditUltimate.py
 ```
+
+
 <br>
 
 ---
@@ -124,3 +126,19 @@ python3 BanditUltimate.py
 # Official YouTube video : [ Bandit Ultimate ]() 
 > Check out the video if your not getting steps mentioned !!
 
+<br>
+
+---
+
+<br>
+
+## Check out [Release Notes](ReleaseNotes.md) .
+> Source code is available in release notes.
+
+<br>
+
+---
+
+<br>
+
+## [Bonus](logindata.txt)
