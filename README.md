@@ -129,7 +129,7 @@ python3 BanditUltimate.py
 <br>
 
 ## Solving Bandit Levels (Explaning each command used) : [Youtube Channel](https://www.youtube.com/channel/UCnYg-nHbq0QPe4eshZ6g8LA)
-## See the playlist here : [Enemurating Bandit]()
+## See the playlist here : [Enumerating Bandit](playlist.md)
 
 
 <br>
