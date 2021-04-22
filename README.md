@@ -66,6 +66,7 @@ Python 3 : [Release Docs](https://www.python.org/download/releases/3.0/) , [Oper
 
 __> Install the following packages :__
 
+* git
 * python3
 * pip 
 * pyperclip
@@ -97,15 +98,19 @@ sudo pip install pyperclip
 ## Installation 
 
 > Follow the instructions for setting up the tool !!
+
 > Install the **Requirements** , before following this. 
 
 
 ```
 git clone https://github.com/s41r4j/BanditUltimate
 cd BanditUltimate
+```
+> Usage
+
+```
 python3 BanditUltimate.py
 ```
-
 
 ---
 
