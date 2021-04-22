@@ -115,6 +115,12 @@ cd BanditUltimate
 ```
 python3 BanditUltimate.py
 ```
+<br>
 
 ---
+
+<br>
+
+# Official YouTube video : [ Bandit Ultimate ]() 
+> Check out the video if your not getting steps mentioned !!
 
