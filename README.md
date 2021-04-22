@@ -52,7 +52,7 @@ Python 3 : [Release Docs](https://www.python.org/download/releases/3.0/) , [Oper
 - [x] *Mac*
 
 - [x] *Android*
-> You need to download [Termux](https://play.google.com/store/apps/details?id=com.termux&hl=en_IN&gl=US) or similar app , install **requirements** and run the python script !!
+> For andorid, you need to download [Termux](https://play.google.com/store/apps/details?id=com.termux&hl=en_IN&gl=US) or similar app , install **requirements** and run the python script !!
 
 
 <br>
