@@ -1,5 +1,7 @@
 # Project name  : Bandit Ultimate
-# Developer     : S41R4J
+# Version       : 1.0
+# Developer     : S41R4J 
+
 import os ,pyperclip ,sys ,time
 def verify(x):
 	if x>=0 and x<34:
