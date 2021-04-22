@@ -126,6 +126,10 @@ python3 BanditUltimate.py
 # Official YouTube video : [ Bandit Ultimate ]() 
 > Check out the video if your not getting steps mentioned !!
 
+## Solving Bandit Levels (Explaning each command used) : [Youtube Channel](https://www.youtube.com/channel/UCnYg-nHbq0QPe4eshZ6g8LA)
+## See the playlist here : [Enemurating Bandit]()
+
+
 <br>
 
 ---
