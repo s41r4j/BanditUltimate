@@ -2,7 +2,7 @@
 
 <br>
 
-![Bandit Ultimate : logo]()
+![Bandit Ultimate](img1.png)
 
 <br>
 
